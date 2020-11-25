@@ -1,3 +1,19 @@
+## Resultado:
+
+<p align="center">
+  <img alt="Resultado" src="https://github.com/brunoxsouza/desafio-gorestaurant-web/blob/master/Desafio10ReactJS.gif?raw=true">
+</p>
+
+## Para executar este projeto:
+Após clonar o projeto, rode um `yarn` no terminal para instalar todas as dependências.
+
+Esta aplicação utiliza uma fake api, para executar este banco, rode o comando abaixo:
+```js
+  yarn json-server server.json -p 3333
+```
+
+Após isso rode `yarn start`.
+
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
